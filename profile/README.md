@@ -1,3 +1,3 @@
-# Mizuno group
-Numerize and calculate compounds.  
-![logo](https://github.com/mizuno-group/.github/images/logo.png?raw=true)  
+# <span style="color: navy; ">Mizuno group</span>
+## Numerize and calculate compounds.  
+![logo](https://github.com/mizuno-group/.github/tree/main/images/logo.png)  
