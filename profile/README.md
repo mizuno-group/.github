@@ -15,7 +15,7 @@
 - [Shotaro Maedera](https://github.com/ShotaroMaedera)  
 
 # Contact Us
-## Principal Investigator
+### Principal Investigator
 - [Tadahaya Mizuno](https://github.com/tadahayamiz)  
 - Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo  
 - email  
