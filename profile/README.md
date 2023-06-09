@@ -7,10 +7,10 @@ Works are organized by year in a pinning repository.
 - [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
 - [Shumpei Nemoto](https://github.com/Nemoto-S)  
 - [Iori Azuma](https://github.com/groovy-phazuma)  
-- Takumi Iwasaka  
+- [Takumi Iwasaka](https://github.com/T-IWASAKA)  
 - [Yasuhiro Yoshikai](https://github.com/yyoshikai)  
-- Yohei Ohto  
-- Yosuke Kikuchi  
+- [Yohei Ohto](https://github.com/YoheiOhto)  
+- [Yosuke Kikuchi](https://github.com/KikuchiY16)  
 - [Tadahaya Mizuno*](https://github.com/tadahayamiz)  
     - correspondence  
 
