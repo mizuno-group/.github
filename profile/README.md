@@ -1,7 +1,7 @@
 ![logo](https://github.com/mizuno-group/.github/blob/main/images/logo.png)  
 
-This organization contains works by Mizuno Group.  
-Works are organized by year as follows:  
+This organization contains the work by Mizuno Group.  
+The work is organized by year as follows:  
 - [2025](https://github.com/mizuno-group/2025)  
 - [2024](https://github.com/mizuno-group/2024)  
 - [2023](https://github.com/mizuno-group/2023)  
