@@ -21,9 +21,9 @@ Works are organized by year as follows:
     - correspondence  
 
 ## Almuni
-- [Shotaro Maedera](https://github.com/ShotaroMaedera)  
-- [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
-- [Shumpei Nemoto](https://github.com/Nemoto-S)  
+- [Shotaro Maedera (2022)](https://github.com/ShotaroMaedera)  
+- [Katsuhisa Morita (2023)](https://github.com/KatsuhisaMorita)  
+- [Shumpei Nemoto (2024)](https://github.com/Nemoto-S)  
 
 ## Contact
 ### Principal Investigator
