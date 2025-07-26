@@ -1,6 +1,8 @@
+# Mizuno Group | Bioinformatics & Data Science Lab
+
 ![logo](https://github.com/mizuno-group/.github/blob/main/images/logo.png)  
 
-This organization contains the work by Mizuno Group.  
+We are a research group at The University of Tokyo, dedicated to bioinformatics and data science, with a strong focus on pattern recognition of life scicence data.  
 The work is organized by year as follows:  
 - [2025](https://github.com/mizuno-group/2025)  
 - [2024](https://github.com/mizuno-group/2024)  
@@ -28,6 +30,7 @@ The work is organized by year as follows:
 ## Contact
 ### Principal Investigator
 - [Tadahaya Mizuno](https://github.com/tadahayamiz)  
-- Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo  
+    - Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo  
+    - School of Statistical Thinking, The Institute of Statistical Mathematics  
 - email  
     - tadahaya[at]gmail.com  
