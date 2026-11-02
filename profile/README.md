@@ -10,7 +10,6 @@ The work is organized by year as follows:
 - [2022](https://github.com/mizuno-group/2022)  
 
 ## Member
-- [Iori Azuma](https://github.com/groovy-phazuma)  
 - [Takumi Iwasaka](https://github.com/T-IWASAKA)  
 - [Yasuhiro Yoshikai](https://github.com/yyoshikai)  
 - [Tomoka Nakagawa](https://github.com/TomokaNAKAGAWA)  
@@ -19,10 +18,13 @@ The work is organized by year as follows:
 - [Mei Yoshikawa](https://github.com/KaijuAtUT)  
 - [Takuho Ri](https://github.com/Lzh-Function)  
 - [Ryuki Honzawa](https://github.com/Honzawa-Ryu)  
+- Eita Kito  
+- Kai Shimizubata  
 - [Tadahaya Mizuno*](https://github.com/tadahayamiz)  
     - correspondence  
 
-## Almuni
+## Alumni
+- [Iori Azuma (2025)](https://github.com/groovy-phazuma)  
 - [Shotaro Maedera (2022)](https://github.com/ShotaroMaedera)  
 - [Katsuhisa Morita (2023)](https://github.com/KatsuhisaMorita)  
 - [Shumpei Nemoto (2024)](https://github.com/Nemoto-S)  
