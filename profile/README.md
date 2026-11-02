@@ -16,7 +16,6 @@ The work is organized by year as follows:
 - [Yohei Ohto](https://github.com/YoheiOhto)  
 - [Yosuke Kikuchi](https://github.com/KikuchiY16)  
 - [Mei Yoshikawa](https://github.com/KaijuAtUT)  
-- Zehao Li  
 - [Takuho Ri](https://github.com/Lzh-Function)  
 - [Ryuki Honzawa](https://github.com/Honzawa-Ryu)  
 - Eita Kito  
